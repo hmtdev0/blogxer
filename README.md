@@ -3,4 +3,6 @@
  # its a Medical Bloggin Website.
 
  # if you want to me make this website full responsive then contact on WhatsApp: +923479224005
- # or email: [hmtdev0@gmail.c.com](mailto:hmtdev0@gmail.c.com)
+ # or email: [hmtdev0@gmail.com](mailto:hmtdev0@gmail.com)
+
+ # Live website preview: [https://hmtdev0.github.io/blogxer/](https://hmtdev0.github.io/blogxer/)
