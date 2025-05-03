@@ -10,7 +10,7 @@ A modern, responsive blog and news portal website built with **HTML5, CSS3, Boot
 
 ## 🖼️ Website Preview
 
-![BlogXer Preview](./path-to-screenshot.png) <!-- Replace with actual image path -->
+![BlogXer Preview](./img/blogxer-banner.png) <!-- Replace with actual image path -->
 
 ---
 
